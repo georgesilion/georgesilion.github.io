@@ -48,3 +48,9 @@ body {
 a {
     color: white !important;
 }
+.social-icons {
+    font-size: 2rem;
+}
+.fa {
+    margin: 0rem 1rem 0rem 1rem;
+}
