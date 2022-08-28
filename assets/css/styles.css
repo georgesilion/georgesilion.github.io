@@ -1,0 +1,17 @@
+body {
+    background-image: url('../../assets/img/alex-gruber-WR6jtTpJ5R8-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
